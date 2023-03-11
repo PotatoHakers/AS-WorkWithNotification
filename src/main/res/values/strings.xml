@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WorkWithNotification</string>
+    <string name="notification_button">Send notification</string>
+    <string name="fio">Гержа Александр Генндьевич 20ИТ-1</string>
+    <string name="about_author">О приложении</string>
+</resources>
